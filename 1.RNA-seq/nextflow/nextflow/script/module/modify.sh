@@ -1,1 +1,0 @@
-sed  -e 's|${params.input}/${sampleID}/${sampleID}|${params.input}/${sampleID}|' *nf
